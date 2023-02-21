@@ -3,37 +3,37 @@
         {
             "title": "Can you tell us about your educational background and how it relates to computer applications?",
             "content": "I completed my Bachelor's degree in Computer Applications from [University Name]. During my studies, I gained comprehensive knowledge and hands-on experience in various computer science concepts, including programming languages, databases, computer networks, software development, and web development. These subjects have provided me with a strong foundation in computer applications and have prepared me for various roles in the industry.",
-            "image": "https://drive.google.com/file/d/18e9I-VNZbB85Xu6mSXUS6IkBqUmhJ-e2/view?usp=share_link"
+            "image": "https://drive.google.com/uc?id=18e9I-VNZbB85Xu6mSXUS6IkBqUmhJ-e2"
         },
         {
             "title": "What programming languages are you proficient in?",
             "content": "I am proficient in several programming languages, including Java, C++, and Python. I have hands-on experience in developing projects using these languages, and I am comfortable with their syntax, libraries, and frameworks. For example, I have used Java to develop a student management system, C++ to create a simple game, and Python for data analysis and machine learning projects. I am also familiar with SQL, which is used for database management.",
-            "image": "https://drive.google.com/file/d/1Ylg81QcmTHwt3nJB2GQYRhtgLSomaJAt/view?usp=share_link"
+            "image": "https://drive.google.com/uc?id=1Ylg81QcmTHwt3nJB2GQYRhtgLSomaJAt"
         },
         {
             "title": "Can you explain an algorithm and its importance?",
             "content": "An algorithm is a step-by-step procedure for solving a problem or accomplishing a task. It is a key tool in computer science, as it provides a systematic way of solving problems and making decisions. Algorithms are used in a wide range of applications, from simple arithmetic calculations to complex data analysis and machine learning. They are crucial for developing efficient and accurate solutions to complex problems, as they can automate repetitive tasks and reduce human error.",
-            "image": "https://drive.google.com/file/d/1qFU1xD8IzNCWIm2e9_q898VUexZT79nv/view?usp=share_link"
+            "image": "https://drive.google.com/uc?id=1qFU1xD8IzNCWIm2e9_q898VUexZT79nv"
         },
         {
             "title": "Can you explain data structures and their applications?",
             "content": "Data structures are the ways in which data is organized and stored in a computer. They play a crucial role in computer science, as they determine how data can be efficiently retrieved, manipulated, and stored. Some common data structures include arrays, linked lists, trees, and graphs. They are used in a wide range of applications, including database management, information retrieval, and algorithmic design. For example, trees are used in data compression algorithms, while graphs are used to represent relationships between objects.",
-            "image": "https://drive.google.com/file/d/1WQU7Y3rfRDRidPJ8og5um2Y0XXY2Xqm3/view?usp=share_link"
+            "image": "https://drive.google.com/uc?id=1WQU7Y3rfRDRidPJ8og5um2Y0XXY2Xqm3"
         },
         {
             "title": "How familiar are you with databases and SQL?",
             "content": "I have a good understanding of databases and SQL. I have learned about relational databases and have experience with designing and implementing databases using SQL. I am familiar with SQL commands such as SELECT, INSERT, UPDATE, and DELETE, and I have used them to perform various database operations. I have also worked on projects that involved integrating databases with front-end applications.",
-            "image": "https://drive.google.com/file/d/1LHV6KbI8EDJ241yP95y9QLYe80SpO0Nx/view?usp=share_link"
+            "image": "https://drive.google.com/uc?id=1LHV6KbI8EDJ241yP95y9QLYe80SpO0Nx"
         },
         {
             "title": "Can you explain software development life cycle (SDLC)?",
             "content": "The software development life cycle (SDLC) is a process for creating software, which includes several stages, such as requirement gathering and analysis, design, implementation, testing, deployment, and maintenance. The goal of the SDLC is to provide a structured and systematic approach to software development, which helps to ensure that the software meets customer requirements, is of high quality, and is delivered on time. I have studied the various models of SDLC, such as the waterfall model and the Agile model, and I have experience working on projects that followed the SDLC process.",
-            "image": "https://drive.google.com/file/d/1x8FPBMEhPFBZaxBWjNnq4LrnZSTZp5K9/view?usp=share_link"
+            "image": "https://drive.google.com/uc?id=1x8FPBMEhPFBZaxBWjNnq4LrnZSTZp5K9"
         },
         {
             "title": "Can you explain the difference between a compiler and an interpreter?",
             "content": "A compiler is a program that translates high-level source code into machine code, which can be executed directly by the computer. A compiler generates a single executable file that contains all of the compiled code, which can be run on any machine that is compatible with the target architecture. An interpreter, on the other hand, is a program that executes source code directly, without the need for compiling it into machine code. Interpreters are typically used for scripting languages, such as Python, and they provide a more flexible and interactive development environment compared to compilers.",
-            "image": "https://drive.google.com/file/d/1jQRUdHh_7MiKgZM7yK-qj2GNJjLxMLKr/view?usp=share_link"
+            "image": "https://drive.google.com/uc?id=1jQRUdHh_7MiKgZM7yK-qj2GNJjLxMLKr"
         },
         {
             "title": "How familiar are you with version control systems such as Git?",
